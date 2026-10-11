@@ -38,19 +38,19 @@ Power BI (Power Query, DAX), Excel
 ## Dashboard Preview
 
 
-![Sales Dashboard](images/page1.png)
+![Sales Dashboard](page1_sales_overview.png.png)
 
 
 
 
-![Products and Customers](images/page2.png)
+![Products and Customers](page2_products_customers.png.png)
 
 
 
 ## Repository Contents
-- `dashboard/sales_dashboard.pbix`: the Power BI file
-- `data/train.csv`: the dataset
-- `images/`: dashboard screenshots
+- `sales_dashboard.pbix`: the Power BI file
+- `train.csv`: the dataset
+- `page1_sales_overview.png.png` and `page2_products_customers.png.png`: dashboard screenshots
 
 ## Limitations
 The dataset has no profit or cost data, so this analysis covers sales performance only.
